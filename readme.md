@@ -1,1 +1,1 @@
-Badge Edia
+Badge
