@@ -25,13 +25,13 @@
       "purpose": "any"
     },
     {
-      "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png"
+      "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png"
+      "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -45,7 +45,7 @@
       "url": "/wrapped/student_login",
       "icons": [
         {
-          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png"
+          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png",
           "sizes": "96x96",
           "type": "image/png"
         }
@@ -57,7 +57,7 @@
       "url": "/wrapped/guestbook",
       "icons": [
         {
-          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png"
+          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png",
           "sizes": "96x96",
           "type": "image/png"
         }
@@ -69,7 +69,7 @@
       "url": "/wrapped/rankings",
       "icons": [
         {
-          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png"
+          "src": "https://tb-angkatan-2026-kenangan-demo.ct.ws/wrapped/assets/img/icon-2026.png",
           "sizes": "96x96",
           "type": "image/png"
         }
